@@ -201,9 +201,9 @@ class ERANInstaller(Installer):
                 "pip install"
                 ' "numpy>=1.19,<1.22"'
                 ' "tensorflow>=2.4,<2.8"'
-                ' "onnx>=1.8,<1.11"'
-                ' "onnxruntime>=1.7,<1.11"'
-                ' "torch>=1.8,<1.11"'
+                ' "onnx>=1.8"'
+                ' "onnxruntime>=1.7"'
+                ' "torch>=1.8"'
                 ' "torchvision>=0.9,<0.12"'
                 ' "mpmath>=1.2,<1.3"'
                 ' "pillow>=8.1"'

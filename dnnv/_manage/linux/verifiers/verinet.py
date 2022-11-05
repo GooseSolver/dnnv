@@ -122,7 +122,7 @@ class VeriNetInstaller(Installer):
             (
                 "pip install"
                 ' "numba>=0.50,<0.60"'
-                ' "onnx>=1.8,<1.11"'
+                ' "onnx>=1.8"'
                 ' "torch>=1.8,<1.9"'
                 ' "torchvision>=0.9,<0.10"'
             ),

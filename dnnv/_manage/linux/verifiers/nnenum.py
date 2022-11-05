@@ -106,8 +106,8 @@ class NnenumInstaller(Installer):
             (
                 "pip install"
                 ' "numpy>=1.19,<1.22"'
-                ' "onnx>=1.8,<1.11"'
-                ' "onnxruntime>=1.7,<1.11"'
+                ' "onnx>=1.8"'
+                ' "onnxruntime>=1.7"'
                 ' "scipy>=1.4.1<1.8"'
                 ' "threadpoolctl==2.1.0"'
                 ' "skl2onnx==1.7.0"'
